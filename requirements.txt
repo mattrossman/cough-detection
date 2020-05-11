@@ -1,0 +1,6 @@
+keras
+librosa
+numpy
+matplotlib
+pydub
+praatio
